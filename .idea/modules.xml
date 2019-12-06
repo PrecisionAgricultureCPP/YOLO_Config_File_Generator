@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/YOLO Config File Generator.iml" filepath="$PROJECT_DIR$/YOLO Config File Generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/YOLO_Config_File_Generator.iml" filepath="$PROJECT_DIR$/.idea/YOLO_Config_File_Generator.iml" />
     </modules>
   </component>
 </project>
